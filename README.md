@@ -9,7 +9,7 @@
 ## Connect With Me 🫱🏽‍🫲🏾
 
 ## My Skills
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,react,threejs,nextjs,tailwind,figma,ts,bootstrap)](https://skillicons.dev) ![Framer Motion](https://img.shields.io/badge/Framer%20Motion-0055FF?style=for-the-badge&logo=framer&logoColor=white) ![GSAP](https://img.shields.io/badge/GSAP-88CE02?style=for-the-badge&logo=greensock&logoColor=white) ![Sanity](https://img.shields.io/badge/Sanity-E45858?style=for-the-badge&logo=sanity&logoColor=white)
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,react,threejs,nextjs,tailwind,figma,ts,bootstrap)](https://skillicons.dev) <img src="Motion_Logo_0.svg" width="50px"/> ![GSAP](https://img.shields.io/badge/GSAP-88CE02?style=for-the-badge&logo=greensock&logoColor=white) <img src="./Sanity_idXDzfQuw3_0.png" width="50px"/>
 
 
 
