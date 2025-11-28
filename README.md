@@ -8,8 +8,19 @@
 
 ## Connect With Me 🫱🏽‍🫲🏾
 
-## My Skills
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,react,threejs,nextjs,tailwind,figma,ts,bootstrap)](https://skillicons.dev) <img src="Motion_Logo_0.svg" width="50px"/> ![GSAP](https://img.shields.io/badge/GSAP-88CE02?style=for-the-badge&logo=greensock&logoColor=white) <img src="./Sanity_idXDzfQuw3_0.png" width="50px"/>
+## My Skills ⚡️
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,tailwind,react,nextjs,figma,bootstrap,threejs)](https://skillicons.dev) <img src="./Sanity.svg" width="50px"/> <img src="Motion_Logo_0.svg" width="80px"/> <img src="./gsap.svg" width="80px"/> 
+
+## Currently Learning 📚
+- Backend web development
+- Data structures and algorithms
+
+## Github Stats 📈
+[![Raymond's GitHub stats](https://github-readme-stats.vercel.app/api?username=ihezie&commits_year=2025&theme=tokyonight)](https://github.com/ihezie/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ihezie&layout=compact&theme=tokyonight)](https://github.com/ihezie/github-readme-stats)
+<p>Yeah, those stats could probably be better...😅</p>
+
+![Snake animation](https://github.com/ihezie/ihezie/blob/output/github-contribution-grid-snake.svg)
 
 
 
