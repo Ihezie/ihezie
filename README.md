@@ -1,6 +1,6 @@
 # Hey Stranger! <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExdzB4c2RwdnQ1cDdqM2l1YXN2OHN4NGdrMWh5bHhkNGxjZzg0bHJ4dyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/YSlD6I04v4s9pgwPcT/giphy.gif" width="45"/>
 
-<p><img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExcjNjMjhvNWpidWlhZWdpamNwcmp6ZWk2MHVsdG9xNHRoeXMwNXV3aiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/HcmeBxVSg8YGA/giphy.gif" width="80%" align="center"/></p>
+<p align="center"><img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExcjNjMjhvNWpidWlhZWdpamNwcmp6ZWk2MHVsdG9xNHRoeXMwNXV3aiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/HcmeBxVSg8YGA/giphy.gif" width="80%" align="center"/></p>
 
 
 ## About👨🏽‍💻
@@ -8,7 +8,7 @@
 
 ## Connect With Me 🫱🏽‍🫲🏾
 <div align="center">
-<a href="https://twitter.com/victorwill__" target="_blank">
+<a href="https://twitter.com/" target="_blank">
 <img src="https://img.shields.io/badge/X\twitter-000000?&style=for-the-badge&logo=x&logoColor=white" alt=twitter />
 </a>
 <a href="https://linkedin.com/" target="_blank">
