@@ -1,6 +1,6 @@
 # Hey Stranger! <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExdzB4c2RwdnQ1cDdqM2l1YXN2OHN4NGdrMWh5bHhkNGxjZzg0bHJ4dyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/YSlD6I04v4s9pgwPcT/giphy.gif" width="45"/>
 
-<p align="center"><img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExcjNjMjhvNWpidWlhZWdpamNwcmp6ZWk2MHVsdG9xNHRoeXMwNXV3aiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/HcmeBxVSg8YGA/giphy.gif" width="80%" align="center"/></p>
+<p align="center"><img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExcjNjMjhvNWpidWlhZWdpamNwcmp6ZWk2MHVsdG9xNHRoeXMwNXV3aiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/HcmeBxVSg8YGA/giphy.gif" width="100%" align="center"/></p>
 
 
 ## About👨🏽‍💻
