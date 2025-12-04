@@ -32,11 +32,6 @@
 - Backend web development
 - Data structures and algorithms
 
-## Github Stats 📈
-[![Raymond's GitHub stats](https://github-readme-stats.vercel.app/api?username=ihezie&commits_year=2025&theme=tokyonight)](https://github.com/ihezie/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ihezie&layout=compact&theme=tokyonight)](https://github.com/ihezie/github-readme-stats)
-<p>Yeah, those stats could probably be better...😅</p>
-
 
 
 
