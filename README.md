@@ -16,7 +16,7 @@
 </a>
 <a href="https://instagram.com/" target="_blank">
 <img src="https://img.shields.io/badge/instagram-FF0069?&style=for-the-badge&logo=instagram&logoColor=white" alt=instagram />
-<a href="https://instagram.com/" target="_blank">
+<a href="https://raymondogbuehi.dev/" target="_blank">
 <img src="https://img.shields.io/badge/portfolio_site-00a63e?&style=for-the-badge" alt=instagram" />
 </a>
 </div>  
